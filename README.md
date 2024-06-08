@@ -1,4 +1,4 @@
-# Deep Learning Project
+# Deep Learning 
 
 ![Deep Learning](./img/deep.gif)
 
