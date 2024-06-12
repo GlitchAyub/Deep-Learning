@@ -29,4 +29,7 @@ cd Deep-Learning
 pip install -r requirements.txt
 if u dont have requirements.txt install 
 tensorflow
+numpy
+pandas
+matplotlib
 ...
