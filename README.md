@@ -7,6 +7,8 @@
 This repository contains a deep learning code focused on [Learning DeepLearning, image classification, natural language processing, etc.]. The project is built using popular deep learning frameworks  TensorFlow and Keras.
 
 ![Deep Learning](./img/digits_nn.jpg)
+![Deep Learning](./img/nn.png)
+
 
 
 ## Features
