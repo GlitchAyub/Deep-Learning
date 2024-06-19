@@ -18,7 +18,7 @@ This repository contains a deep learning code focused on [Learning DeepLearning,
 - **Feature 3:** Description of feature 3
 
 ## Projects
-- **Projects:** Will Add Soon ... in another Repo
+- **Projects:** Will Add Soon ... in another Repo 
 
 
 ## Installation
